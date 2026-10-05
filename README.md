@@ -192,3 +192,24 @@ La práctica nos permitió preparar y configurar una estación de trabajo para r
 Durante el proceso se presentaron problemas relacionados principalmente con Docker, la virtualización de Windows y la integración entre GNS3 y VMware. La solución de estos problemas permitió comprender mejor la relación entre las diferentes herramientas y los requisitos de virtualización necesarios para su funcionamiento.
 
 Finalmente, se logró configurar correctamente el entorno de trabajo y comprobar la integración de GNS3 con la GNS3 VM mediante VMware Workstation, dejando la estación preparada para futuras prácticas de automatización de infraestructura digital.
+
+## Avance del proyecto integrador
+
+### Práctica 1
+Preparación de la estación de automatización de redes.  
+Estado: Completada.
+
+### Práctica 2
+Construcción de la red simulada en GNS3.  
+Estado: Completada.
+
+Infraestructura construida:
+- Topología básica PC-Switch-PC.
+- Topología con dos routers y un switch multicapa.
+- Direccionamiento IP.
+- Conectividad entre dispositivos.
+- Protocolo OSPF.
+- Verificación de tablas de enrutamiento.
+
+Próximo paso:
+Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
