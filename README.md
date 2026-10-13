@@ -213,3 +213,15 @@ Infraestructura construida:
 
 Próximo paso:
 Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
+
+### Práctica 3
+Primer programa de Python para representar información de dispositivos.
+
+Estado: Completada.
+
+Se desarrolló un programa en Python capaz de representar y mostrar información básica de los dispositivos de la infraestructura simulada.
+
+El programa utiliza listas, diccionarios, ciclos, estructuras condicionales y funciones para organizar y procesar la información de R1, R2 y S1.
+
+Próximo paso:
+Desarrollar programas que permitan procesar y automatizar información relacionada con la infraestructura de red.
