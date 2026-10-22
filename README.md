@@ -225,3 +225,13 @@ El programa utiliza listas, diccionarios, ciclos, estructuras condicionales y fu
 
 Próximo paso:
 Desarrollar programas que permitan procesar y automatizar información relacionada con la infraestructura de red.
+
+### Práctica 4 - Exploración de comunidades, documentación y recursos de colaboración
+
+**Estado:** Completada.
+
+En esta práctica investigamos diferentes recursos de documentación y comunidades relacionados con Python, GNS3 y la automatización de redes.
+
+También organizamos una base de información con recursos que nos pueden servir para buscar soluciones cuando tengamos dudas o problemas durante las siguientes prácticas.
+
+**Próximo paso:** Continuar trabajando con Python y utilizar los recursos investigados como apoyo para resolver los problemas que puedan presentarse durante el desarrollo del proyecto.
